@@ -55,7 +55,7 @@ A Passionate Software Developer | Cloud & DevOps Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,docker,kubernetes,git,github,cpp,mysql,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,docker,kubernetes,azure,git,github,cpp,mysql,vercel,vscode,python,c++" />
 
 </p>
 
