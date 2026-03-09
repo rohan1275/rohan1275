@@ -28,7 +28,6 @@ A Passionate Software Developer | Cloud & DevOps Enthusiast
 
 - 🎯 Goal: Become a **Top Software Engineer**
 
-- ⚡ Fun fact: *I debug faster after coffee ☕*
 
 ---
 
@@ -44,6 +43,10 @@ A Passionate Software Developer | Cloud & DevOps Enthusiast
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
+<a href="https://instagram.com/rohan1275">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
 </p>
 
 ---
@@ -52,7 +55,7 @@ A Passionate Software Developer | Cloud & DevOps Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,docker,kubernetes,git,github,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,docker,kubernetes,git,github,cpp,mysql,vercel" />
 
 </p>
 
