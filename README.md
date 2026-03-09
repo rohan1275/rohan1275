@@ -61,13 +61,13 @@ A Passionate Software Developer | Cloud & DevOps Enthusiast
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohan1275&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohan1275&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan1275&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan1275&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
