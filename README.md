@@ -80,15 +80,7 @@ A Passionate Software Developer | Cloud & DevOps Enthusiast
 
 ---
 
-# 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan1275&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -101,11 +93,7 @@ https://github.com/rohan1275/AWS-Cloud-Architecture-for-Scalable-Online-Learning
 ### 🔹 Personal Portfolio Website
 https://github.com/rohan1275/PORTFOLIO
 
----
 
-# 🐍 Contribution Snake
-
-<p align="center">
 
 <img src="https://raw.githubusercontent.com/rohan1275/rohan1275/output/github-contribution-grid-snake.svg">
 
