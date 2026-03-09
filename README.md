@@ -1,48 +1,112 @@
 <h1 align="center">Hi 👋, I'm Rohan Mishra</h1>
-<h3 align="center">Aspiring Software Developer | Cloud & DevOps Enthusiast</h3>
+
+<h3 align="center">
+A Passionate Software Developer | Cloud & DevOps Enthusiast
+</h3>
 
 <p align="center">
-🚀 Building real-world projects with Web Development, Cloud and DevOps
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F72E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies" />
 </p>
 
-## 🚀 About Me
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rohan1275&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+# 🚀 About Me
 
 - 🌱 Currently learning **Cloud Architecture, DevOps, Docker & Kubernetes**
 
-- 💻 Working on **Real-time Chat Applications and Cloud Projects**
+- 💻 Building **Real-Time Web Applications**
 
-- 📚 B.Tech CSE Student
+- ☁️ Exploring **AWS & Scalable Cloud Systems**
+
+- 🎓 B.Tech Computer Science Student
 
 - 🎯 Goal: Become a **Top Software Engineer**
 
-- ⚡ Fun fact: I debug faster after coffee ☕
+- ⚡ Fun fact: *I debug faster after coffee ☕*
 
-## 🌐 Connect with me
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rohan-mishra-198b3b276" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+<a href="https://www.linkedin.com/in/rohan-mishra-198b3b276">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://github.com/rohan1275" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/rohan1275">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
+
 </p>
 
-## 🛠 Languages and Tools
+---
 
-<p>
+# 🛠 Tech Stack
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,docker,kubernetes,git,github,cpp,mysql" />
+
 </p>
 
-## 🚀 Featured Projects
+---
 
-🔹 **Real-Time Anonymous Chat Application**  
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohan1275&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan1275&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan1275&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan1275&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Real-Time Anonymous Chat Application
 https://github.com/rohan1275/Vapour-Real-Time-Anonymous-Chat-Web-Application
 
-🔹 **AWS Cloud Architecture for Online Learning Platform**  
+### 🔹 AWS Cloud Architecture for Online Learning Platform
 https://github.com/rohan1275/AWS-Cloud-Architecture-for-Scalable-Online-Learning-Platform
 
-🔹 **Portfolio Website**  
+### 🔹 Personal Portfolio Website
 https://github.com/rohan1275/PORTFOLIO
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rohan1275/rohan1275/output/github-contribution-grid-snake.svg">
+
+</p>
