@@ -59,17 +59,7 @@ A Passionate Software Developer | Cloud & DevOps Enthusiast
 
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohan1275&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan1275&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</p>
 
 ---
 
@@ -95,9 +85,3 @@ https://github.com/rohan1275/AWS-Cloud-Architecture-for-Scalable-Online-Learning
 
 ### 🔹 Personal Portfolio Website
 https://github.com/rohan1275/PORTFOLIO
-
-
-
-<img src="https://raw.githubusercontent.com/rohan1275/rohan1275/output/github-contribution-grid-snake.svg">
-
-</p>
