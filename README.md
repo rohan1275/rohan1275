@@ -26,7 +26,6 @@ A Passionate Software Developer | Cloud & DevOps Enthusiast
 
 - 🎓 B.Tech Computer Science Student
 
-- 🎯 Goal: Become a **Top Software Engineer**
 
 
 ---
